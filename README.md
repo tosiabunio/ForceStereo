@@ -97,3 +97,7 @@ launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/local.forcestereo.helper
 | `helper/` | Forwarding helper |
 | `shared/` | Definitions used by both |
 | `install.sh`, `uninstall.sh` | Install and removal |
+
+## License
+
+[0BSD](LICENSE) — use it for anything, no conditions.
